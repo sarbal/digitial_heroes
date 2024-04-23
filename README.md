@@ -51,6 +51,7 @@ Papers:
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jcmm.17103](https://onlinelibrary.wiley.com/doi/full/10.1111/jcmm.17103)
 [https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00662-x](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00662-x)
 [https://www.nature.com/articles/s41392-022-00996-y](https://www.nature.com/articles/s41392-022-00996-y)
+[https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03120-0](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03120-0)
 
 
 Probably didn't have time to reach this part: 
