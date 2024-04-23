@@ -1,4 +1,4 @@
-# digitial_heroes
+# Digital Heroes: Using Computer Science to Battle Diseases
 Your mission: 
 Understand the cause of the COVID-19 pandemic (and the disease), and suggest a way to cure it. 
 Throughout the workshop, we will be asking you to go to a few websites. They are listed below with the instructions too.  
