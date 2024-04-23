@@ -32,13 +32,17 @@ Throughout the workshop, we will be asking you to go to a few websites. They are
 
 ## Other cool sites and references: 
 Virus dashboard: [https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/dashboard?taxid=2697049](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/dashboard?taxid=2697049)
+
 SARS-CoV2 genome sequence: [https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2/](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2/)
+
 BLAST Tool: [https://blast.ncbi.nlm.nih.gov/Blast.cgi](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
 SARS-CoV2 spike 3D structures: 
 - [7WK2](https://www.rcsb.org/structure/7WK2)
 - [7DX6](https://www.rcsb.org/structure/7DX6)
 
 Antiviral piece: [https://cen.acs.org/pharmaceuticals/drug-discovery/How-Pfizer-scientists-transformed-an-old-drug-lead-into-a-COVID-19-antiviral/100/i3](https://cen.acs.org/pharmaceuticals/drug-discovery/How-Pfizer-scientists-transformed-an-old-drug-lead-into-a-COVID-19-antiviral/100/i3)
+
 mRNA vaccine art: [https://pdb101.rcsb.org/sci-art/goodsell-gallery/sars-cov-2-mrna-vaccine](https://pdb101.rcsb.org/sci-art/goodsell-gallery/sars-cov-2-mrna-vaccine)
 
 Papers: 
